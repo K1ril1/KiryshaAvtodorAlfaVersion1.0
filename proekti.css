@@ -1,0 +1,63 @@
+body {
+	background-color: white;
+	color: black;
+	
+	font-size: 16px;
+    font-weight: normal;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.navbar {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.navbara {
+	text-decoration: none;
+	color: black;
+}
+
+.logo {
+	width: 60px;
+}	
+
+.obryshenie {
+	color: grey;
+}
+
+.obrysheniedata {
+	color: grey;
+}
+
+.perviedorogi {
+	color: grey;
+}
+
+.perviedorogidata {
+	color: grey;
+}
+
+.pervayaAZC{
+	color: grey;
+}
+
+.pervayaAZCdata {
+	color: grey;
+}
+
+.realizacia {
+	color: grey;
+}
+
+.ozarenie {
+	color: grey;
+}
+
+.trans-gorod-neft {
+	color: grey;
+}
